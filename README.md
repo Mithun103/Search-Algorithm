@@ -93,7 +93,7 @@ if (result==-1):
 else:
     print(arr)
     print("Element found at index: ",result)
-    ```
+```
 ### Sample Input and Output:
 ![WhatsApp Image 2023-01-26 at 13 35 53](https://user-images.githubusercontent.com/118344695/214794287-f90d547d-b658-4731-9f93-44e66842ce40.jpg)
 ![WhatsApp Image 2023-01-26 at 13 36 21](https://user-images.githubusercontent.com/118344695/214794306-d3f11d4d-d2c7-4492-98a8-27d38fc146dd.jpg)
