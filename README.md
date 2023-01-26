@@ -95,12 +95,12 @@ else:
     print("Element found at index: ",result)
     ```
     
-## Sample Input and Output:
+### Sample Input and Output:
 
 ![WhatsApp Image 2023-01-26 at 13 35 53](https://user-images.githubusercontent.com/118344695/214794287-f90d547d-b658-4731-9f93-44e66842ce40.jpg)
 ![WhatsApp Image 2023-01-26 at 13 36 21](https://user-images.githubusercontent.com/118344695/214794306-d3f11d4d-d2c7-4492-98a8-27d38fc146dd.jpg)
 ![WhatsApp Image 2023-01-26 at 13 36 35](https://user-images.githubusercontent.com/118344695/214794325-9ecc5d3f-f25c-4ea8-8e00-853a8259302a.jpg)
 
 
-## Result:
+### Result:
 Thus the linear search and binary search algorithm is implemented using python programming.
