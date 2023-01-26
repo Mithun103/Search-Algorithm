@@ -93,7 +93,7 @@ if (result==-1):
     print("Element not found")
 else:
     print(arr)
-    print("Element found at index: ",result)
+    print("Element found at index: ",result)```
     
 ## Sample Input and Output:
 
